@@ -1,0 +1,5 @@
+[
+	{"id":1, "name":"Pradeep","age":"28","gender":"Male", "email":"pradeep@gmail.com"},
+  	{"id":2, "name":"Ajay","age":"30","gender":"Male", "email":"ajay@gmail.com"},
+  	{"id":3, "name":"Mitwa","age":"28","gender":"Female", "email":"mitwa@gmail.com"},
+]
