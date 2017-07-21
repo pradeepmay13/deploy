@@ -25,7 +25,9 @@ const routes: Routes = [
 @NgModule({
   imports: [
     CommonModule,
-    RouterModule.forRoot(routes)
+    RouterModule.forRoot(routes, { useHash: true, enableTracing: true })
+    //RouterModule.forRoot(routes)
+	//ng build --base-href http://localhost/ng/#/
   ],
   exports:[
   	RouterModule
